@@ -2,10 +2,10 @@
 
 # Shopping Center
 
-![GitHub repo size](https://img.shields.io/github/repo-size/luhring-julian/[REPOSITÓRIO]?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/luhring-julian/[REPOSITÓRIO]?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/luhring-julian/[REPOSITÓRIO]?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/luhring-julian/[REPOSITÓRIO]?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/luhring-julian/ShoppingCenter?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/luhring-julian/ShoppingCenter?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/luhring-julian/ShoppingCenter?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/luhring-julian/ShoppingCenter?style=for-the-badge)
 
 ## Descrição do Projeto
 
